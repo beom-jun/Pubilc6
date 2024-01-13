@@ -1,0 +1,212 @@
+body{
+    margin: 0px;
+}
+
+
+.top{
+    background-color: black;
+    height: 80px;
+}
+
+.main{
+    height: 969px;
+    background-color: rgb(41, 65, 171);
+}
+
+.bottom{
+    height: 530px;
+    background-color: black;
+}
+
+.button{
+    box
+}
+
+
+.line-remove{
+    display: none
+}
+
+.color{
+    color: white;
+}
+
+.line{
+    text-decoration: none;
+    color: white;
+    padding: 28px 17px
+}
+
+.font{
+    font-size: 16px;
+}
+
+.flexbox{
+    flex: content;
+    justify-content:end;
+    position: absolute;
+    right: 300px;
+    top: 27px;
+}
+
+.권한{
+    display: flex;
+}
+
+.spo{
+    position: absolute;
+    left: 230px;
+    top: 10px;
+}
+
+.button1{
+    padding: 14px 32px;
+    background-color: #1ed760;
+    border-radius: 500px;
+    font-size: inherit;
+    color: #2941ab;
+    font-weight: 700;
+    border: none;
+    position: absolute;
+    left: 750px;
+}
+
+.position{
+    font-size: 146px;
+    line-height: 166px;
+    color: #1ed760;
+    font-weight: 900;
+    position: relative;
+    left: 280px;
+    padding-bottom: 40px
+}
+
+.position2{
+    color: #1ed760;
+    font-size: 18px;
+    line-height: 24px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+
+.position3{
+    font-size: 146px;
+    line-height: 166px;
+    color: #1ed760;
+    font-weight: 900;
+    position: relative;
+    left: 600px;
+    padding-bottom: 40px
+}
+
+.body{
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    padding-top: 220px;
+}
+
+.flexbox1{
+    flex: content;
+    align-items: left;
+}
+
+
+
+.footer{
+    position: absolute;
+    bottom: 0px;
+    background: #f2f2f2;
+    width: 100%;
+}
+
+.back{
+    background-image: url(https://www-growth.scdn.co/static/home/bursts.svg);
+    background-size: 175%;
+    background-position: 46% 4%;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    padding: 0 15px;
+}
+
+.sub-title {
+    color: #919496;
+    font-weight: 900;
+    margin: 20px 0px;
+}
+
+.footer-menu-item {
+    padding-bottom: 15px;
+    padding-top: 3px;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.box1{
+    display: flex;
+}
+
+.간격{
+    width: 120px;
+    padding-top: 80px;
+    padding-left: 50px;
+}
+
+.간격3{
+    width: 120px;
+    padding-top: 80px;
+    padding-left: 3px;
+}
+
+
+.하단{
+    padding: 300px;
+    left: 40px;
+}
+
+.하단글짜{
+    padding-left: 50px;
+}
+
+.간격1{
+    color: #919496;
+    display: flex;
+    
+    margin-top: 130px;
+}
+
+.나나{
+    margin-right: 24px;
+    color: #919496;
+}
+
+
+.icon{
+    width: 54px;
+    height: 54px;
+    background-color: #222322;
+    border-radius: 50%;
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.그만하자{
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 80px;
+}
+
+
+.button3{
+    text-align: center;
+}
